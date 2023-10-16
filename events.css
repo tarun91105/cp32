@@ -1,0 +1,18 @@
+.main-cont {
+  display: flex;
+  flex-direction: row;
+}
+.events-cont {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 60vw;
+  background-color: #323f4b;
+  color: white;
+  padding: 20px;
+}
+.events {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

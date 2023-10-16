@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.img {
+  height: 150px;
+  width: 250px;
+}
+.event-main-cont {
+  margin-right: 20px;
+  border: none;
+  padding: 0px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.name {
+  font-size: 20px;
+}
